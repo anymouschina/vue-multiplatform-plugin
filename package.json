@@ -1,0 +1,15 @@
+{
+  "name": "vue-multiplatform-plugin",
+  "version": "1.0.0",
+  "description": "用于vue中多平台文件的识别和按平台导入，业务隔离。使用时会根据同名文件后缀和编译平台匹配进行导入，代码参考自taro多平台插件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anymouschina/vue-multiplatform-plugin.git"
+  },
+  "author": "beq",
+  "license": "ISC"
+}
